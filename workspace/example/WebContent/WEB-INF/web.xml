@@ -9,24 +9,4 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
-  <servlet>
-    <description></description>
-    <display-name>SampleServlet</display-name>
-    <servlet-name>SampleServlet</servlet-name>
-    <servlet-class>servlet.SampleServlet</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>SampleServlet</servlet-name>
-    <url-pattern>/SampleServlet</url-pattern>
-  </servlet-mapping>
-  <servlet>
-    <description></description>
-    <display-name>SampleServlet2</display-name>
-    <servlet-name>SampleServlet2</servlet-name>
-    <servlet-class>servlet.SampleServlet</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>SampleServlet2</servlet-name>
-    <url-pattern>/SampleServlet2</url-pattern>
-  </servlet-mapping>
 </web-app>
